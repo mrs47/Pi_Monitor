@@ -1,0 +1,12 @@
+{
+    "ProductKey": "tquehc09zqo8yk0q",
+    "DeviceKey": "jj+me1^^ksxrjsos",
+    "Token": "$26aa9nl&z/rc^t6",
+    "Random": "0000000000000000",
+    "HttpSeverDeviceInfoAPI": "http://iot.skipjack.cn/upload/device/info.do",
+    "HttpSeverGPIOAPI": "http://iot.skipjack.cn/upload/device/gpio.do",
+    "HttpSeverFileAPI": "http://iot.skipjack.cn/download/fileOrSoft.do",
+    "getInfoTime": "",
+    "version": "v1.0",
+    "OS": "Linux"
+}
